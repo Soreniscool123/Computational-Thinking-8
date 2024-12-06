@@ -7,7 +7,7 @@ stage = StageClass()
 
 
 stage.set_background("baseballfield")
-mySprite = codesters.Sprite("corgi")
+mySprite = codesters.Sprite("baseball")
 mySprite.say("Jack is a poopoo head")
 
 
